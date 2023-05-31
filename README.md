@@ -5,7 +5,7 @@
 
 ## Description
 
-Langchain ChatGPT Browser API is a Langchain implementation of [ChatGPT-Web-API](https://github.com/lorenzo-polaris/ChatGPT-Web-API) and it allows you to use Langchain with the ChatGPT instance in your browser.
+Langchain ChatGPT Browser API is a Langchain implementation of [ChatGPT-Web-API](https://github.com/lorenzo-polaris/ChatGPT-Web-API). It allows you to use the ChatGPT instance in your browser in a Langchain project.
 
 With a Plus subscription, you can take advantage of GPT4 without the need for an API key.
 
