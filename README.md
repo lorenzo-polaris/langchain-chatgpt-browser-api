@@ -43,8 +43,3 @@ Contributions are welcome! If you have any ideas, bug reports, or feature reques
 ## License
 
 This library is licensed under the MIT License. See the LICENSE file for more information.
-
-```
-
-Please note that you may need to replace certain sections, such as the license badge and the GitHub repository link, with the appropriate information for your project.
-```
