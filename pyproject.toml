@@ -1,0 +1,18 @@
+[project]
+name = "langchain-chatgpt-browser-api"
+version = "0.0.1"
+authors = [
+  { name="Lorenzo Di Martino", email="lorflea@gmail.com" },
+]
+description = "A Python library that allows you to use Langchain with the ChatGPT instance in your browser."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/lorenzo-polaris/langchain-chatgpt-browser-api"
+"Bug Tracker" = "https://github.com/lorenzo-polaris/langchain-chatgpt-browser-api/issues"

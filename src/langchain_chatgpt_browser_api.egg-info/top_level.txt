@@ -1,0 +1,2 @@
+ChatGPTBrowserAPI
+__init__
